@@ -4,7 +4,12 @@ export default navbar([
   "/",
   "/posts/",
   {
-    text: "MIS之我见",
+    text: "剪报集",
+    icon: "newspaper",
+    link: "/news/",
+  },
+  {
+    text: "讨论集",
     icon: "blog",
     prefix: "/is/",
     children: [
@@ -12,7 +17,7 @@ export default navbar([
         text: "Using MIS",
         icon: "pen-to-square",
         prefix: "Using_MIS/",
-        children: ["README.md"]
+        children: ["README"]
       }
     ],
   },
