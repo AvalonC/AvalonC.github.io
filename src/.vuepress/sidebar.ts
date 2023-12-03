@@ -9,4 +9,5 @@ export default sidebar({
       children: "structure",
     },
   ],
+  "/is/Using_MIS/": "structure"
 });
