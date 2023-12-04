@@ -1,14 +1,13 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
-  "/posts/": [
-    {
-      text: "随笔",
-      icon: "pen-to-square",
-      prefix: "posts/",
-      children: "structure",
-    },
-  ],
+  "/posts/":[
+      {
+        text: "随笔",
+        icon: "pen-to-square",
+        children: "structure"
+      },
+    ],
   "/news/": [
     {
       text: "电子剪报",

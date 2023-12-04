@@ -2,7 +2,11 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/posts/",
+  {
+    text: "随笔",
+    icon: "pen-to-square",
+    link: "/posts/",
+  },
   {
     text: "剪报集",
     icon: "newspaper",
