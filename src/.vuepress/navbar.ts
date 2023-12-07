@@ -21,7 +21,7 @@ export default navbar([
         text: "Using MIS",
         icon: "pen-to-square",
         prefix: "Using_MIS/",
-        children: ["README"]
+        children: ["begin/Perface"]
       }
     ],
   },
