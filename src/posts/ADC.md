@@ -2,11 +2,11 @@
 
 [Production Introduction](https://www.glitchprod.com/digital-circus)
 
-黑色喜剧动画《惊奇数位马戏团：导航员》（THE AMAZING DIGITAL CIRCUS: PILOT）在 YouTube 上线两周突破 5,500 万观看，其鲜明色调动画与阴暗剧情形成新鲜反差，席卷欧美二创社群，如 TikTok 主题标签“#TheAmazingDigitalCircus”浏览量已超过 13 亿次。
+黑色喜剧动画《神奇数字马戏团：试映集》（THE AMAZING DIGITAL CIRCUS: PILOT）在 YouTube 上线两周突破 5,500 万观看，其鲜明色调动画与阴暗剧情形成新鲜反差，席卷欧美二创社群，如 TikTok 主题标签“#TheAmazingDigitalCircus”浏览量已超过 13 亿次。
 
-《惊奇数位马戏团》由动画师兼作曲家 Gooseworx 创作，《Murder Drones》动画团队 GLITCH Productions 制作，《导航员》为试映集，预计打造成一整季动画系列。
+《神奇数字马戏团》由动画师兼作曲家 Gooseworx 创作，《Murder Drones》动画团队 GLITCH Productions 制作，，预计打造成一整季动画系列。共8话，每话21-25分钟
 
-![Pilot剧照](https://static.wixstatic.com/media/b48361_35edee1357c24497b44d82f092954980~mv2.png/v1/fit/w_1358,h_764,q_90/b48361_35edee1357c24497b44d82f092954980~mv2.webp)
+![试映集剧照](https://static.wixstatic.com/media/b48361_35edee1357c24497b44d82f092954980~mv2.png/v1/fit/w_1358,h_764,q_90/b48361_35edee1357c24497b44d82f092954980~mv2.webp)
 
 这部作品的超高反响程度使人震惊，时隔两月，相当多的解析，分析等等也已经全网满天飞，我目前比较认同的说法是
 
