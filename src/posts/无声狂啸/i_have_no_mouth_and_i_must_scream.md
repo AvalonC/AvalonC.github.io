@@ -1,7 +1,7 @@
 ---
 author: Harlan Ellison
 ---
-# 无声狂啸 (I have no mouth & I must scream)
+# 无声狂啸（小说原作）
 
 ## 作品介绍
 
