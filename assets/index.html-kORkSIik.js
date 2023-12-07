@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-950b1102","path":"/is/Using_MIS/","title":"Using M I S","lang":"zh-CN","frontmatter":{"title":"Using M I S","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};
