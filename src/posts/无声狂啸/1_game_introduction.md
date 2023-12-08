@@ -41,7 +41,7 @@ next: false
 
 你们五个人，谁要跟我玩这个游戏？
 
-- Nimdok
+- [Nimdok](nimdok)
 - Benny
 - Ellen
 - Gorrister
