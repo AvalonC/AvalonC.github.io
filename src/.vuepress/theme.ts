@@ -73,7 +73,7 @@ export default hopeTheme({
       attrs: true,
 
       // install chart.js before enabling it
-      // chart: true,
+      chart: true,
 
       codetabs: true,
 
