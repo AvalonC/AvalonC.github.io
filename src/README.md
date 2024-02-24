@@ -6,7 +6,7 @@ title: 博客主页
 heroImage: /code7_11.png
 heroText: AvalonC's Blog
 heroFullScreen: true
-bgImage: https://api.cyrilstudio.top/api/bing
+bgImage: https://api.dujin.org/bing/1920.php
 tagline: Memento Mori
 projects:
   - icon: project
