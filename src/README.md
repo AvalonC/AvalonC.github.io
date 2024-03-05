@@ -24,6 +24,10 @@ projects:
     desc: David M. Kroenke & Randall J Boyle 
     link: is/Using_MIS
 
+  - icon: book
+    name: 光荣且并不短暂的信息系统领域发展史
+    desc: Ruby Hirschheim & Heinz L. Klein
+    link: is/paper/ISH
   # - icon: article
   #   name: 文章名称
   #   desc: 文章详细描述

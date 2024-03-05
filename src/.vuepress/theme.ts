@@ -138,6 +138,11 @@ export default hopeTheme({
       // install @vue/repl before enabling it
       // vuePlayground: true,
     },
+    components: {
+      components: [
+        "PDF"
+      ]
+    }
 
     // uncomment these if you want a PWA
     // pwa: {

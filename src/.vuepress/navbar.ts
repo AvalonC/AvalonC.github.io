@@ -22,6 +22,12 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "Using_MIS/",
         children: ["begin/Perface"]
+      },
+      {
+        text: "论文",
+        icon: "pen-to-square",
+        prefix: "paper/",
+        children: ["ISH"]
       }
     ],
   },
