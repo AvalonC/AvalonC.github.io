@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-7508e288","path":"/posts/%E6%97%A0%E5%A3%B0%E7%8B%82%E5%95%B8/","title":"无声狂啸","lang":"zh-CN","frontmatter":{"title":"无声狂啸","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};
