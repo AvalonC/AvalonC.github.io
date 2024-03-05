@@ -10,4 +10,4 @@ icon: copy
 
 ## 正文
 
-<PDF url="https://avalonc.github.io/is/paper/ISH.pdf" />
+<PDF url="/files/ISH.pdf" />
